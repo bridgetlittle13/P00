@@ -105,7 +105,7 @@ public class CalculatorTest {
 	}
 	@Test
 	public void testDivide() {
-		//fail("Not yet implemented");
+		//fail("Not yet implement");
 		int a=5000;
 		int b=5;
 		
