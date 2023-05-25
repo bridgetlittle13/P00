@@ -116,7 +116,6 @@ public class CalculatorTest {
 		assertEquals(expected,actual);
 		
 	}
-	//loa
 	@Test
 	public void testErrorDivide() {
 		//fail("Not yet implemented");
